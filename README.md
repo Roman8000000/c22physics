@@ -1,2 +1,2 @@
-# c22physics
-bounce thing
+# staticSquare
+A static square made using Matter.js physics engine
